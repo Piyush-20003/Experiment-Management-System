@@ -7,10 +7,10 @@ Features:
 2. ✅ Report Generation – Generate PDF reports, including calculated ratios of laser elements.
 3. ✅ Data Visualization – Graphical representation of experimental data.
 
-Tech Stack
-Frontend & Backend: Streamlit
-Data Handling: Pandas, NumPy, Streamlit's st.data_editor
-Reports: PDF generation (fpdf2)
+Tech Stack:
+1. Frontend & Backend: Streamlit
+2. Data Handling: Pandas, NumPy, Streamlit's st.data_editor
+3. Reports: PDF generation (fpdf2)
 
 Requirement : Python, Streamlit, data editor fpdf2
 
