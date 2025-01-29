@@ -2,12 +2,11 @@
 
 A web-based lab management system built with Python and Streamlit for BARC (Bhabha Atomic Research Centre). This system replaces Excel-based data entry and automates experiment tracking, report generation, and data visualization.
 
-Features
-
-1.✅ Data Entry – Add, update, and delete lab records.
-2.✅ Report Generation – Generate PDF reports, including calculated ratios of laser elements.
-3.✅ Data Visualization – Graphical representation of experimental data.
-4.✅ Secure & Private – Runs on BARC’s private cloud for enhanced security.
+Features:
+1. ✅ Data Entry – Add, update, and delete lab records.
+2. ✅ Report Generation – Generate PDF reports, including calculated ratios of laser elements.
+3. ✅ Data Visualization – Graphical representation of experimental data.
+4. ✅ Secure & Private – Runs on BARC’s private cloud for enhanced security.
 
 Tech Stack
 Frontend & Backend: Streamlit
