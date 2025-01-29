@@ -26,3 +26,5 @@ Future Enhancements:
  ✅ Improved UI/UX
  ✅ Enhanced security features
  ✅ Integration with additional database options
+
+Command to run : streamlit run barc2.py
