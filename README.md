@@ -21,6 +21,6 @@ Usage:
 4. View graphical visualizations of lab data.
    
 Future Enhancements
-✅ Improved UI/UX
-✅ Enhanced security features
-✅ Integration with additional database options
+ ✅ Improved UI/UX
+ ✅ Enhanced security features
+ ✅ Integration with additional database options
