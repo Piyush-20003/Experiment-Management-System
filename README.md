@@ -4,7 +4,6 @@ A web-based lab management system built with Python and Streamlit for BARC (Bhab
 
 Features
 ✅ Data Entry – Add, update, and delete lab records.
-
 ✅ Report Generation – Generate PDF reports, including calculated ratios of laser elements.
 ✅ Data Visualization – Graphical representation of experimental data.
 ✅ Secure & Private – Runs on BARC’s private cloud for enhanced security.
