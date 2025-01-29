@@ -6,12 +6,11 @@ Features:
 1. ✅ Data Entry – Add, update, and delete lab records.
 2. ✅ Report Generation – Generate PDF reports, including calculated ratios of laser elements.
 3. ✅ Data Visualization – Graphical representation of experimental data.
-4. ✅ Secure & Private – Runs on BARC’s private cloud for enhanced security.
 
 Tech Stack
 Frontend & Backend: Streamlit
-Database: SQLite / PostgreSQL (mention the one you used)
-Reports: PDF generation (mention library used, e.g., reportlab or pdfkit)
+Data Handling: Pandas, NumPy, Streamlit's st.data_editor
+Reports: PDF generation (fpdf2)
 
 Requirement : Python, Streamlit, data editor fpdf2
 
