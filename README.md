@@ -14,6 +14,8 @@ Tech Stack:
 
 Requirement : Python, Streamlit, data editor fpdf2
 
+Command to run : streamlit run barc2.py
+
 Usage:
 1. Open the web app in a browser.
 2. Navigate to the data entry section to manage records.
