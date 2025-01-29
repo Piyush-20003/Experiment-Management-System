@@ -20,7 +20,7 @@ Usage:
 3. Generate experiment reports in PDF format.
 4. View graphical visualizations of lab data.
    
-Future Enhancements
+Future Enhancements:
  ✅ Improved UI/UX
  ✅ Enhanced security features
  ✅ Integration with additional database options
